@@ -6,7 +6,7 @@ Software Engineer focused on building custom architectures on AWS. I'm focused o
 
 ---
 
-![AWS](https://img.shields.io/badge/AWS-38a17a?style=flat-square&label=Hyperscaler&labelColor=7aa7bf&color=06354f)
+![AWS](https://img.shields.io/badge/AWS-38a17a?style=flat-square&label=Hyperscaler&labelColor=7aa7bf&color=06354f) &nbsp;
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-38a17a?style=flat-square&label=CICD&labelColor=7aa7bf&color=06354f)
 ![HashiCorp Terraform](https://img.shields.io/badge/Hashicorp_Terraform-38a17a?style=flat-square&label=Infrastructure_as_Code&labelColor=7aa7bf&color=06354f)
 ![AWS CloudFormation](https://img.shields.io/badge/AWS_CloudFormation-38a17a?style=flat-square&label=Infrastructure_as_Code&labelColor=7aa7bf&color=06354f)
